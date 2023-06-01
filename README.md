@@ -18,4 +18,4 @@
      <br>    
 <p> Imagem final do projeto </p>
 <br>
-<img src="
+<img src="https://github.com/JhonatanSamuel/Buscador-de-ceps/blob/master/src/assets/buscador-de-cep.jpg?raw=true">
