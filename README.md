@@ -1,5 +1,6 @@
 <h2>Buscador de Ceps. Projeto feito com React</h2>
 <br>
+<a href="https://buscador-de-ceps-2.vercel.app/">Acessar a página</a>
 <br>
 <h1>Buscador de CEP</h1>
 <br>
